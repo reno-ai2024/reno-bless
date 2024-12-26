@@ -24,11 +24,11 @@ A Node.js script to automate running blessnetwork node.
 ## 🤔 How To Do
 - Clone This Repo
   - ```bash
-    git clone https://github.com/cmalf/blessnetwork-bot-js.git
+    git clone https://github.com/reno-ai2024/reno-bless.git
     ```
 - Go To Folder
   - ```bash
-    cd blessnetwork-bot-js
+    cd reno-bless
     ```
 - Install Dependencies
   - ```bash
